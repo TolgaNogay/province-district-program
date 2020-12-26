@@ -1,0 +1,20 @@
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\bin\Debug\24.12.2020_ornek2.exe.config
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\bin\Debug\24.12.2020_ornek2.exe
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\bin\Debug\24.12.2020_ornek2.pdb
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.csprojAssemblyReference.cache
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\_24._12._2020_ornek2.Form1.resources
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\_24._12._2020_ornek2.Properties.Resources.resources
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.csproj.GenerateResource.cache
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.csproj.CoreCompileInputs.cache
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.exe
+D:\TOLGA\Okul Örnekleri\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.pdb
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\bin\Debug\24.12.2020_ornek2.exe.config
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\bin\Debug\24.12.2020_ornek2.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\bin\Debug\24.12.2020_ornek2.pdb
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.csprojAssemblyReference.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\_24._12._2020_ornek2.Form1.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\_24._12._2020_ornek2.Properties.Resources.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_ornek2\24.12.2020_ornek2\obj\Debug\24.12.2020_ornek2.pdb
